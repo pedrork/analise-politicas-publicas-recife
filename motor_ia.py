@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
@@ -59,4 +60,3 @@ for i, coord in enumerate(novas_coordenadas):
 
 mapa.save("prototipo_ia_recife.html")
 print(f"✅ SUCESSO! A IA calculou {ORCAMENTO_NOVAS_ANTENAS} novos polos.")
-print("🗺️ O mapa foi salvo como 'prototipo_ia_recife.html'. Abra na sua pasta!")

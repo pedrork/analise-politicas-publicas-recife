@@ -39,4 +39,4 @@ try:
     print("👉 Vá na sua pasta e dê dois cliques nele para abrir no navegador!")
 
 except Exception as e:
-    print(f"🚨 Deu algum erro: {e}")
+    print(f"❌ ERRO: {e}") 
